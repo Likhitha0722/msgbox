@@ -1,0 +1,23 @@
+body{
+    
+    
+    background:radial-gradient(rgb(190, 111, 111),rgb(172, 138, 194));
+    text-align: center;
+    
+    margin-top: 200px;
+    margin-bottom: 300px;
+    
+
+}
+h2{
+    color:black;
+}
+label{
+    color:black;
+}
+button{
+    background-color:aqua;
+}
+output{
+    font-size: x-large;
+}
